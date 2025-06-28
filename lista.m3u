@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA_TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-chno="4" group-title="Group 1",AMERICA TELEVISION
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" tvg-chno="9" group-title="Group 1",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" tvg-chno="32" group-title="Group 1",ATV+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="EXITOSA_TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-chno="552" group-title="Group 1",EXITOSA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="GLOBAL_TV" tvg-logo="https://i.imgur.com/yuEou9C.png" tvg-chno="13" group-title="Group 1",GLOBAL TV
+https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA" tvg-logo="https://i.imgur.com/MOsWriY.png" tvg-chno="2" group-title="Group 1",LATINA
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA_TELEVISION" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-chno="5" group-title="Group 1",PANAMERICANA TELEVISION
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV_PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-chno="7" group-title="Group 1",TV PERU
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-id="lch6471" tvg-name="La_Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png" tvg-chno="30" group-title="Group 1",La Tele
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-chno="12" group-title="Group 1",WILLAX
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="lch6473" tvg-name="SOL_TV" tvg-logo="https://i.imgur.com/GtNkuAc.png" tvg-chno="553" group-title="Group 1",SOL TV
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-id="lch6509" tvg-name="ATV_SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-chno="1000" group-title="Group 1",ATV SUR
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
