@@ -10,8 +10,8 @@ cd /home/ubuntu/epg || { echo "Error: No se pudo acceder al directorio /home/ubu
 
 echo "$(date): Iniciando actualización del EPG..."
 
-# Actualizar repositorio
-echo "Actualizando repositorio..."
+# Actualizar repositorio del EPG
+echo "Actualizando repositorio del EPG..."
 git pull || { echo "Error en git pull"; exit 1; }
 
 # Instalar dependencias
@@ -28,6 +28,10 @@ npm run grab --- --site=tv.movistar.com.pe || { echo "Warning: Error en grab ---
 
 # Cambiar al directorio del repositorio
 cd /home/ubuntu/jsjhonatanjs.github.io || { echo "Error: No se pudo acceder al directorio /home/ubuntu/jsjhonatanjs.github.io"; exit 1; }
+
+# Actualizar repositorio
+echo "Actualizando repositorio..."
+git pull || { echo "Error en git pull"; exit 1; }
 
 # Mover el archivo EPG al repositorio
 echo "Moviendo archivo EPG al repositorio..."
