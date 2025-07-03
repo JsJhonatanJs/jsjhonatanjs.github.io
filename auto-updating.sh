@@ -40,7 +40,7 @@ mv /home/ubuntu/epg/guide.xml /home/ubuntu/jsjhonatanjs.github.io/guide.xml || {
 # Hacer commit y push del archivo actualizado
 echo "Haciendo commit y push del EPG actualizado..."
 git add guide.xml
-git commit -m "Auto-update EPG $(date '+%Y-%m-%d %H:%M:%S')" || echo "No hay cambios para commitear"
+git commit -m "Auto-update EPG $(date '+%d-%m-%Y %H:%M:%S')" || echo "No hay cambios para commitear"
 git push origin main || { echo "Warning: Error en git push"; }
 
 echo "$(date): Actualización completada exitosamente"
