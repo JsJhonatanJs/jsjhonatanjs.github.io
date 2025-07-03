@@ -5,7 +5,7 @@
 
 set -e  # Salir si cualquier comando falla
 
-# Cambiar al directorio del proyecto
+# Cambiar al directorio del epg
 cd /home/ubuntu/epg || { echo "Error: No se pudo acceder al directorio /home/ubuntu/epg"; exit 1; }
 
 echo "$(date): Iniciando actualización del EPG..."
@@ -25,5 +25,12 @@ npm run channels:parse --- --config=./sites/tv.movistar.com.pe/tv.movistar.com.p
 # Descargar la guía
 echo "Descargando la guía..."
 npm run grab --- --site=tv.movistar.com.pe || { echo "Warning: Error en grab --- --site=tv.movistar.com.pe"; }
+
+# Cambiar al directorio del repositorio
+cd /home/ubuntu/jsjhonatanjs.github.io || { echo "Error: No se pudo acceder al directorio /home/ubuntu/jsjhonatanjs.github.io"; exit 1; }
+
+# Mover el archivo EPG al repositorio
+echo "Moviendo archivo EPG al repositorio..."
+mv /home/ubuntu/epg/guide.xml /home/ubuntu/jsjhonatanjs.github.io/guide.xml || { echo "Error al mover el archivo EPG"; exit 1; }
 
 echo "$(date): Actualización completada exitosamente"
