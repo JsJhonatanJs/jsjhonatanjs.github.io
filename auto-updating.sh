@@ -18,12 +18,12 @@ git pull || { echo "Error en git pull"; exit 1; }
 echo "Instalando dependencias..."
 npm install || { echo "Error en npm install"; exit 1; }
 
-# Ejecutar actualización de sitios (si es necesario)
-#echo "Actualizando sitios..."
-#npm run sites:update || { echo "Warning: Error en sites:update"; }
+# Actualizar lista de canales
+echo "Actualizando lista de canales..."
+npm run channels:parse --- --config=./sites/tv.movistar.com.pe/tv.movistar.com.pe.config.js --output=./sites/tv.movistar.com.pe/tv.movistar.com.pe.channels.xml || { echo "Warning: Error en channels:parse"; }
 
-# Generar EPG
-#echo "Generando EPG..."
-#npm run grab || { echo "Warning: Error en grab"; }
+# Descargar la guía
+echo "Descargando la guía..."
+npm run grab --- --site=tv.movistar.com.pe || { echo "Warning: Error en grab --- --site=tv.movistar.com.pe"; }
 
 echo "$(date): Actualización completada exitosamente"
