@@ -10,6 +10,10 @@ cd /home/ubuntu/epg || { echo "Error: No se pudo acceder al directorio /home/ubu
 
 echo "$(date): Iniciando actualización del EPG..."
 
+# Configurar directorio seguro para Git si es necesario
+echo "Configurando directorio seguro para Git..."
+git config --global --add safe.directory /home/ubuntu/epg 2>/dev/null || true
+
 # Actualizar repositorio del EPG
 echo "Actualizando repositorio del EPG..."
 git pull || { echo "Error en git pull"; exit 1; }
@@ -28,6 +32,10 @@ npm run grab --- --site=tv.movistar.com.pe || { echo "Warning: Error en grab ---
 
 # Cambiar al directorio del repositorio
 cd /home/ubuntu/jsjhonatanjs.github.io || { echo "Error: No se pudo acceder al directorio /home/ubuntu/jsjhonatanjs.github.io"; exit 1; }
+
+# Configurar directorio seguro para Git si es necesario
+echo "Configurando directorio seguro para el repositorio..."
+git config --global --add safe.directory /home/ubuntu/jsjhonatanjs.github.io 2>/dev/null || true
 
 # Actualizar repositorio
 echo "Actualizando repositorio..."
