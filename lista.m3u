@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA_TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-chno="4" group-title="Group 1",AMERICA TELEVISION
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="ANTENA_3" tvg-logo="https://i.imgur.com/QMadWXp.png" tvg-chno="820" group-title="Group 1",ANTENA 3
+http://38.224.230.122:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" tvg-chno="9" group-title="Group 1",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" tvg-chno="32" group-title="Group 1",ATV+
@@ -17,9 +19,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="lch6471" tvg-name="La_Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png" tvg-chno="30" group-title="Group 1",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="lch2228" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" tvg-chno="110" group-title="Group 1",AXN
+http://38.224.230.122:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-chno="12" group-title="Group 1",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="lch6473" tvg-name="SOL_TV" tvg-logo="https://i.imgur.com/GtNkuAc.png" tvg-chno="553" group-title="Group 1",SOL TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="lch6509" tvg-name="ATV_SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-chno="1000" group-title="Group 1",ATV SUR
+#EXTINF:-1 tvg-id="lch6509" tvg-name="ATV_SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-chno="556" group-title="Group 1",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="lch3091" tvg-name="ANIMAL_PLANET_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" tvg-chno="203" group-title="Group 1",ANIMAL PLANET HD
+http://38.224.230.122:8000/play/a0dy/index.m3u8
