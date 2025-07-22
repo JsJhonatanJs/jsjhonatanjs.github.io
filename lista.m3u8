@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA_TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-chno="4" group-title="Group 1",AMERICA TELEVISION
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+https://live-evg1.tv360.bitel.com.pe/bitel/americatvhd_ori_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="ANTENA_3" tvg-logo="https://i.imgur.com/QMadWXp.png" tvg-chno="820" group-title="Group 1",ANTENA 3
-http://38.224.230.122:8000/play/a027/index.m3u8
+http://38.211.242.128:8001/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" tvg-chno="9" group-title="Group 1",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" tvg-chno="32" group-title="Group 1",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="CANAL_N" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-chno="8" group-title="Group 1",CANAL N
-http://38.224.230.122:8000/play/a058/index.m3u8
+http://38.211.242.128:8001/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="EXITOSA_TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-chno="552" group-title="Group 1",EXITOSA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="GLOBAL_TV" tvg-logo="https://i.imgur.com/yuEou9C.png" tvg-chno="13" group-title="Group 1",GLOBAL TV
 https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="GOLPERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" tvg-chno="14" group-title="Group 1",GOLPERU
-http://181.176.153.106:8090/play/a1av/index.m3u8
+http://38.211.242.128:8001/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA" tvg-logo="https://i.imgur.com/MOsWriY.png" tvg-chno="2" group-title="Group 1",LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2775" tvg-name="ESPN_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" tvg-chno="15" group-title="Group 1",ESPN HD
@@ -22,26 +22,26 @@ http://38.211.242.128:8001/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="lch2776" tvg-name="ESPN_3_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" tvg-chno="17" group-title="Group 1",ESPN 3 HD
 http://38.211.242.128:8001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="lch2188" tvg-name="Cartoon_Network_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" tvg-chno="402" group-title="Group 1",Cartoon Network HD
-http://38.224.230.122:8000/play/a0f2/index.m3u8
+http://38.211.242.128:8001/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="lch2189" tvg-name="TNT_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" tvg-chno="102" group-title="Group 1",TNT HD
 http://38.211.242.128:8001/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="lch2224" tvg-name="TNT_SERIES_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-chno="103" group-title="Group 1",TNT SERIES HD
 http://38.211.242.128:8001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="lch2225" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png" tvg-chno="107" group-title="Group 1",SONY
-http://38.224.230.122:8000/play/a0g6/index.m3u8
+http://38.211.242.128:8001/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="lch2322" tvg-name="WARNER_CHANNEL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" tvg-chno="106" group-title="Group 1",WARNER CHANNEL HD
-http://38.224.230.122:8000/play/a0gh/index.m3u8
+http://38.211.242.128:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="lch2227" tvg-name="STAR_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" tvg-chno="108" group-title="Group 1",STAR CHANNEL
 #EXTINF:-1 tvg-id="lch2229" tvg-name="UNIVERSAL_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" tvg-chno="112" group-title="Group 1",UNIVERSAL CHANNEL
-http://38.224.230.122:8000/play/a067/index.m3u8
+http://38.211.242.128:8001/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="lch2325" tvg-name="FX_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png" tvg-chno="109" group-title="Group 1",FX HD
-http://38.224.230.122:8000/play/a064/index.m3u8
+http://38.211.242.128:8001/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="lch2327" tvg-name="INV.DISCOVERY_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" tvg-chno="111" group-title="Group 1",INV.DISCOVERY HD
-http://38.224.230.122:8000/play/a0dd/index.m3u8
+http://38.211.242.128:8001/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="lch2328" tvg-name="COMEDY_CENTRAL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" tvg-chno="151" group-title="Group 1",COMEDY CENTRAL HD
-http://38.224.230.122:8000/play/a04s/index.m3u8
+http://38.211.242.128:8001/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="lch2239" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" tvg-chno="128" group-title="Group 1",SPACE
-http://38.224.230.122:8000/play/a0gz/index.m3u8
+http://38.211.242.128:8001/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA_TELEVISION" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-chno="5" group-title="Group 1",PANAMERICANA TELEVISION
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV_PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-chno="7" group-title="Group 1",TV PERU
@@ -49,7 +49,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="lch6471" tvg-name="La_Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png" tvg-chno="30" group-title="Group 1",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2228" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" tvg-chno="110" group-title="Group 1",AXN
-http://38.224.230.122:8000/play/a0gy/index.m3u8
+http://38.211.242.128:8001/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-chno="12" group-title="Group 1",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="lch6473" tvg-name="SOL_TV" tvg-logo="https://i.imgur.com/GtNkuAc.png" tvg-chno="553" group-title="Group 1",SOL TV
@@ -57,4 +57,4 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="lch6509" tvg-name="ATV_SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-chno="556" group-title="Group 1",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="lch3091" tvg-name="ANIMAL_PLANET_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" tvg-chno="203" group-title="Group 1",ANIMAL PLANET HD
-http://38.224.230.122:8000/play/a0dy/index.m3u8
+http://38.211.242.128:8001/play/a0a0/index.m3u8
