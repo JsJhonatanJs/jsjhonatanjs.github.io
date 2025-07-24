@@ -99,7 +99,7 @@ http://38.211.242.128:8001/play/a0bt/index.m3u8
 http://38.211.242.128:8001/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2268" tvg-name="DISCOVERY_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" tvg-chno="202" group-title="Group 1",DISCOVERY CHANNEL
-http://38.211.242.128:8001/play/a0a1/index.m3u8
+http://190.61.117.35:8000/play/a059
 
 #EXTINF:-1 tvg-id="lch2269" tvg-name="HISTORY_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png" tvg-chno="213" group-title="Group 1",HISTORY CHANNEL
 http://38.211.242.128:8001/play/a0a2/index.m3u8
@@ -145,6 +145,51 @@ http://38.211.242.128:8001/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2298" tvg-name="GOL_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" tvg-chno="510" group-title="Group 1",GOL TV
 http://181.188.234.21:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2303" tvg-name="CNN_ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-chno="542" group-title="Group 1",CNN ESPAÑOL
+http://38.211.242.128:8001/play/a0c7/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2304" tvg-name="CNN_INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" tvg-chno="544" group-title="Group 1",CNN INTERNACIONAL
+http://38.211.242.128:8001/play/a0ao/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2311" tvg-name="ENLACE_TBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/1920px-Enlace_Televisi%C3%B3n_logo.svg.png" tvg-chno="572" group-title="Group 1",ENLACE TBN
+http://38.211.242.128:8001/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2313" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="602" group-title="Group 1",MTV
+http://38.211.242.128:8001/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2314" tvg-name="MTV_HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MTV_Hits.svg/1024px-MTV_Hits.svg.png" tvg-chno="604" group-title="Group 1",MTV HITS
+http://185.189.225.157/MTVHits/index.m3u8
+
+#EXTINF:-1 tvg-id="lch6298" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png" tvg-chno="610" group-title="Group 1",HTV
+http://190.60.33.245:4002/play/a0g5/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2339" tvg-name="ESPN_5_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" tvg-chno="19" group-title="Group 1",ESPN 5 HD
+http://38.211.242.128:8001/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2343" tvg-name="DISCOVERY_THEATER_HD" tvg-logo="https://i.imgur.com/i20veho.png" tvg-chno="748" group-title="Group 1",DISCOVERY THEATER HD
+http://38.211.242.128:8001/play/a047/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2344" tvg-name="DISCOVERY_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" tvg-chno="202" group-title="Group 1",DISCOVERY HD
+http://38.211.242.128:8001/play/a044/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2353" tvg-name="DISCOVERY_WORLD_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1920px-World_Discovery_HD_logo.svg.png" tvg-chno="759" group-title="Group 1",DISCOVERY WORLD HD
+http://38.211.242.128:8001/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2357" tvg-name="DISNEY_CHANNEL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" tvg-chno="412" group-title="Group 1",DISNEY CHANNEL HD
+http://38.211.242.128:8001/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2358" tvg-name="NICK_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" tvg-chno="410" group-title="Group 1",NICK HD
+http://38.211.242.128:8001/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2360" tvg-name="MTV_00S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" tvg-chno="908" group-title="Group 1",MTV 00S
+http://181.189.241.114:5050/play/a039
+
+#EXTINF:-1 tvg-id="lch2375" tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/1920px-Televisi%C3%B3n_Federal_Logo.svg.png" tvg-chno="806" group-title="Group 1",TELEFE
+http://38.211.242.128:8001/play/a0ca/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2376" tvg-name="EL_TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" tvg-chno="808" group-title="Group 1",EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2328" tvg-name="COMEDY_CENTRAL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" tvg-chno="151" group-title="Group 1",COMEDY CENTRAL HD
 http://38.211.242.128:8001/play/a093/index.m3u8
