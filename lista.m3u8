@@ -98,6 +98,54 @@ http://38.211.242.128:8001/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="lch2259" tvg-name="HBO_XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" tvg-chno="547" group-title="Group 1",HBO XTREME
 http://38.211.242.128:8001/play/a0an/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2268" tvg-name="DISCOVERY_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" tvg-chno="202" group-title="Group 1",DISCOVERY CHANNEL
+http://38.211.242.128:8001/play/a0a1/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2269" tvg-name="HISTORY_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png" tvg-chno="213" group-title="Group 1",HISTORY CHANNEL
+http://38.211.242.128:8001/play/a0a2/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2270" tvg-name="NAT_GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" tvg-chno="206" group-title="Group 1",NAT GEO
+http://38.211.242.128:8001/play/a0a3/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2271" tvg-name="HISTORY_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1024px-History2_logo_%282022%29.svg.png" tvg-chno="210" group-title="Group 1",HISTORY 2
+http://190.60.33.245:4002/play/a1ig/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2273" tvg-name="DISCOVERY_SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" tvg-chno="218" group-title="Group 1",DISCOVERY SCIENCE
+http://190.60.33.245:4002/play/a1l1/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2275" tvg-name="DISCOVERY_TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png" tvg-chno="220" group-title="Group 1",DISCOVERY TURBO
+http://38.211.242.128:8001/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2277" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1920px-TLC_logo_%282023%29.svg.png" tvg-chno="303" group-title="Group 1",TLC
+http://190.60.33.245:4002/play/a1gc/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2278" tvg-name="HOME_&_HEALTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1920px-Discovery_Home_%26_Health_logo.svg.png" tvg-chno="304" group-title="Group 1",HOME & HEALTH
+http://38.211.242.128:8001/play/a0c6/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2285" tvg-name="DISCOVERY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/1024px-Discovery_Kids_2021_2D_Gradient.svg.png" tvg-chno="404" group-title="Group 1",DISCOVERY KIDS
+http://38.211.242.128:8001/play/a03q/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2287" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1920px-Cartoonito_-_Logo_2021.svg.png" tvg-chno="408" group-title="Group 1",CARTOONITO
+http://38.211.242.128:8001/play/a0dv/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2288" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" tvg-chno="410" group-title="Group 1",NICKELODEON
+http://45.184.87.142:8000/play/a01s
+
+#EXTINF:-1 tvg-id="lch2291" tvg-name="DISNEY_JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1920px-2024_Disney_Jr._Logo.svg.png" tvg-chno="416" group-title="Group 1",DISNEY JUNIOR
+http://38.211.242.128:8001/play/a0c8/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2295" tvg-name="ESPN_7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" tvg-chno="21" group-title="Group 1",ESPN 7
+http://38.211.242.128:8001/play/a0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2296" tvg-name="ESPN_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png" tvg-chno="20" group-title="Group 1",ESPN 6
+http://38.211.242.128:8001/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2297" tvg-name="ESPN_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" tvg-chno="16" group-title="Group 1",ESPN 2
+http://38.211.242.128:8001/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2298" tvg-name="GOL_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" tvg-chno="510" group-title="Group 1",GOL TV
+http://181.188.234.21:8000/play/a042/index.m3u8
+
 #EXTINF:-1 tvg-id="lch2328" tvg-name="COMEDY_CENTRAL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" tvg-chno="151" group-title="Group 1",COMEDY CENTRAL HD
 http://38.211.242.128:8001/play/a093/index.m3u8
 
