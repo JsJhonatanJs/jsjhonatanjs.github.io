@@ -221,6 +221,27 @@ http://38.211.242.128:8001/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="lch2376" tvg-name="EL_TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" tvg-chno="808" group-title="Group 1",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2379" tvg-name="NUESTRA_TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1920px-RCN_Nuestra_Tele_logo.svg.png" tvg-chno="660" group-title="Group 1",NUESTRA TELE
+http://38.211.242.128:8001/play/a0bn/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2380" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1920px-TVE.svg.png" tvg-chno="818" group-title="Group 1",TVE
+http://38.211.242.128:8001/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2382" tvg-name="DEUTSCHE_WELLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1920px-Deutsche_Welle_symbol_2012.svg.png" tvg-chno="666" group-title="Group 1",DEUTSCHE WELLE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2424" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" tvg-chno="22" group-title="Group 1",A&E
+http://38.211.242.128:8001/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2459" tvg-name="RPP_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/1024px-Radio_Programas_del_Per%C3%BA_logo.svg.png" tvg-chno="10" group-title="Group 1",RPP HD
+http://38.211.242.128:8001/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2491" tvg-name="BABY_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" tvg-chno="419" group-title="Group 1",BABY TV
+http://38.211.242.128:8001/play/a0c5/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2813" tvg-name="ESPN_4_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" tvg-chno="18" group-title="Group 1",ESPN 4 HD
+http://38.211.242.128:8001/play/a0ae/index.m3u8
+
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-chno="12" group-title="Group 1",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 
