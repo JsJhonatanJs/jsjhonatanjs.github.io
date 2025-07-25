@@ -23,6 +23,9 @@ https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="GOLPERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" tvg-chno="14" group-title="Group 1",GOLPERU
 http://38.211.242.128:8001/play/a0bg/index.m3u8
 
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="KANAL_D_DRAMA" tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-chno="26" group-title="Group 1",KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KDrama.id" tvg-name="K-DRAMA" tvg-logo="https://i.imgur.com/F144MZ6.png" tvg-chno="26" group-title="Group 1",K-DRAMA
 http://38.211.242.128:8001/play/a07r/index.m3u8
 
@@ -35,11 +38,17 @@ http://38.211.242.128:8001/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="lch2776" tvg-name="ESPN_3_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" tvg-chno="17" group-title="Group 1",ESPN 3 HD
 http://38.211.242.128:8001/play/a04a/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2188" tvg-name="Cartoon_Network_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" tvg-chno="402" group-title="Group 1",Cartoon Network HD
-http://38.211.242.128:8001/play/a0c3/index.m3u8
-
 #EXTINF:-1 tvg-id="lch2189" tvg-name="TNT_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" tvg-chno="102" group-title="Group 1",TNT HD
 http://38.211.242.128:8001/play/a0a4/index.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA_TELEVISION" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-chno="5" group-title="Group 1",PANAMERICANA TELEVISION
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV_PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-chno="7" group-title="Group 1",TV PERU
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 tvg-id="lch6471" tvg-name="La_Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png" tvg-chno="30" group-title="Group 1",La Tele
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lch2224" tvg-name="TNT_SERIES_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-chno="103" group-title="Group 1",TNT SERIES HD
 http://38.211.242.128:8001/play/a04d/index.m3u8
@@ -53,6 +62,9 @@ http://38.211.242.128:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="lch2227" tvg-name="STAR_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" tvg-chno="108" group-title="Group 1",STAR CHANNEL
 http://38.211.242.128:8001/play/a0ag/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2228" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" tvg-chno="110" group-title="Group 1",AXN
+http://38.211.242.128:8001/play/a0a9/index.m3u8
+
 #EXTINF:-1 tvg-id="lch2229" tvg-name="UNIVERSAL_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" tvg-chno="112" group-title="Group 1",UNIVERSAL CHANNEL
 http://38.211.242.128:8001/play/a0ai/index.m3u8
 
@@ -65,11 +77,17 @@ http://38.211.242.128:8001/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="lch2238" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" tvg-chno="126" group-title="Group 1",TCM
 http://38.211.242.128:8001/play/a0br/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2239" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" tvg-chno="128" group-title="Group 1",SPACE
+http://38.211.242.128:8001/play/a0ab/index.m3u8
+
 #EXTINF:-1 tvg-id="lch2333" tvg-name="PARAMOUNT_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png" tvg-chno="131" group-title="Group 1",PARAMOUNT HD
 http://38.211.242.128:8001/play/a091/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2245" tvg-name="STUDIO_UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" tvg-chno="138" group-title="Group 1",STUDIO UNIVERSAL
-http://38.211.242.128:8001/play/a0ah/index.
+http://38.211.242.128:8001/play/a0ah/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2247" tvg-name="EUROCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/EURO_LOGO_FINALE.png/1920px-EURO_LOGO_FINALE.png" tvg-chno="144" group-title="Group 1",EUROCHANNEL
+http://190.217.80.250:8888/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2335" tvg-name="CINECANAL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" tvg-chno="150" group-title="Group 1",CINECANAL HD
 http://38.211.242.128:8001/play/a0a5/index.m3u8
@@ -122,6 +140,9 @@ http://190.60.33.245:4002/play/a1gc/index.m3u8
 #EXTINF:-1 tvg-id="lch2278" tvg-name="HOME_&_HEALTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1920px-Discovery_Home_%26_Health_logo.svg.png" tvg-chno="304" group-title="Group 1",HOME & HEALTH
 http://38.211.242.128:8001/play/a0c6/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2188" tvg-name="Cartoon_Network_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" tvg-chno="402" group-title="Group 1",Cartoon Network HD
+http://38.211.242.128:8001/play/a0c3/index.m3u8
+
 #EXTINF:-1 tvg-id="lch2285" tvg-name="DISCOVERY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/1024px-Discovery_Kids_2021_2D_Gradient.svg.png" tvg-chno="404" group-title="Group 1",DISCOVERY KIDS
 http://38.211.242.128:8001/play/a03q/index.m3u8
 
@@ -130,6 +151,9 @@ http://38.211.242.128:8001/play/a0dv/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2288" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" tvg-chno="410" group-title="Group 1",NICKELODEON
 http://45.184.87.142:8000/play/a01s
+
+#EXTINF:-1 tvg-id="lch3091" tvg-name="ANIMAL_PLANET_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" tvg-chno="203" group-title="Group 1",ANIMAL PLANET HD
+http://38.211.242.128:8001/play/a0a0/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2291" tvg-name="DISNEY_JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1920px-2024_Disney_Jr._Logo.svg.png" tvg-chno="416" group-title="Group 1",DISNEY JUNIOR
 http://38.211.242.128:8001/play/a0c8/index.m3u8
@@ -152,6 +176,9 @@ http://38.211.242.128:8001/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-id="lch2304" tvg-name="CNN_INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" tvg-chno="544" group-title="Group 1",CNN INTERNACIONAL
 http://38.211.242.128:8001/play/a0ao/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2305" tvg-name="FOX_NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" tvg-chno="734" group-title="Group 1",FOX NEWS
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
 #EXTINF:-1 tvg-id="lch2311" tvg-name="ENLACE_TBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/1920px-Enlace_Televisi%C3%B3n_logo.svg.png" tvg-chno="572" group-title="Group 1",ENLACE TBN
 http://38.211.242.128:8001/play/a0dz/index.m3u8
 
@@ -163,6 +190,9 @@ http://185.189.225.157/MTVHits/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6298" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png" tvg-chno="610" group-title="Group 1",HTV
 http://190.60.33.245:4002/play/a0g5/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2328" tvg-name="COMEDY_CENTRAL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" tvg-chno="151" group-title="Group 1",COMEDY CENTRAL HD
+http://38.211.242.128:8001/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2339" tvg-name="ESPN_5_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" tvg-chno="19" group-title="Group 1",ESPN 5 HD
 http://38.211.242.128:8001/play/a0f3/index.m3u8
@@ -191,24 +221,6 @@ http://38.211.242.128:8001/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="lch2376" tvg-name="EL_TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" tvg-chno="808" group-title="Group 1",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2328" tvg-name="COMEDY_CENTRAL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" tvg-chno="151" group-title="Group 1",COMEDY CENTRAL HD
-http://38.211.242.128:8001/play/a093/index.m3u8
-
-#EXTINF:-1 tvg-id="lch2239" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" tvg-chno="128" group-title="Group 1",SPACE
-http://38.211.242.128:8001/play/a0ab/index.m3u8
-
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA_TELEVISION" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-chno="5" group-title="Group 1",PANAMERICANA TELEVISION
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV_PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-chno="7" group-title="Group 1",TV PERU
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-
-#EXTINF:-1 tvg-id="lch6471" tvg-name="La_Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png" tvg-chno="30" group-title="Group 1",La Tele
-https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-
-#EXTINF:-1 tvg-id="lch2228" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" tvg-chno="110" group-title="Group 1",AXN
-http://38.211.242.128:8001/play/a0a9/index.m3u8
-
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-chno="12" group-title="Group 1",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 
@@ -217,6 +229,3 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lch6509" tvg-name="ATV_SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-chno="556" group-title="Group 1",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="lch3091" tvg-name="ANIMAL_PLANET_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" tvg-chno="203" group-title="Group 1",ANIMAL PLANET HD
-http://38.211.242.128:8001/play/a0a0/index.m3u8
