@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1920px-L1MAX-LOGO.svg.png" tvg-chno="1" group-title="Deportes",L1MAX
-http://181.176.153.106:8090/play/a0p6/index.m3u8
+http://181.176.153.107:8090/play/a0p6/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA_TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-chno="4" group-title="Televisión Nacional (Perú)",AMERICA TELEVISION
 https://live-evg1.tv360.bitel.com.pe/bitel/americatvhd_ori_720p/playlist.m3u8
